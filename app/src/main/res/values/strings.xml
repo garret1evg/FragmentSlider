@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">FragmentSlider</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">Messenger</string>
+    <string name="create_new_notification">Create new notification</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_text">Notification %d</string>
+    <string name="notification_head">Chat heads active</string>
+    <string name="in_app_notify_head">You create a notification</string>
 </resources>
