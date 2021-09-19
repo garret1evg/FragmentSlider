@@ -30,11 +30,11 @@
             android:layout_height="wrap_content"
             android:background="@drawable/rectangle_ripple"/>
         <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/counter"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
             android:textSize="24dp"
-            android:text="1"
             android:textColor="@color/text_color"/>
 
 
