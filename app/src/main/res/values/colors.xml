@@ -2,6 +2,8 @@
 <resources>
     <color name="main_color">#02AAB0</color>
     <color name="create_notify_color">#33BABF</color>
+    <color name="in_app_notify_head">#DE000000</color>
+    <color name="in_app_notify_text">#8B000000</color>
     <color name="text_color">#FFFFFF</color>
     <color name="gradient1">#49C0BD</color>
     <color name="gradient2">#DBE5FE</color>
